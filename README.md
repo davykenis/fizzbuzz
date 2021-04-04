@@ -17,13 +17,13 @@ FizzBuzz TDD kata
         }
         
 ## STEP 3: Add other tests
-//dsfsdf
+FizzBuzz1, FizzBuzz3, FizzBuzz5, ....
 
 ## STEP 4: Fix test
-//dsfsdf
+Note: Mind the FizzBuzz 15, you might want to change code order to avoid BuzzFizz
 
 ## STEP 4: Refactor untill you reach clean code :-)
-//dsfsdf
+Note: You might want to add a seperate class to seperate code logic from exceptions like 0
 
 
   
